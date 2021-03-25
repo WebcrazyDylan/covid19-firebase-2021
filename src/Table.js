@@ -5,7 +5,7 @@ import numeral from "numeral";
 function Table({ countries }) {
   return (
     <div className="table">
-      <table>
+      <table style={{ width: "100%" }}>
         <tbody>
           {countries.map((country, idx) => (
             <tr key={idx}>

@@ -64,4 +64,8 @@ body {
   .app {
     flex-direction: column;
   }
+  .app__right {
+    margin-top: 20px;
+    margin-right: 15px;
+  }
 }
