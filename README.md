@@ -1,4 +1,4 @@
-# COVID-19 TRACKER(https://covid19.jonghyun.cf/)
+# COVID-19 TRACKER [Preview](https://covid19.jonghyun.cf/)
 
 ## API
 
